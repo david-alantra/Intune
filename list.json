@@ -13,7 +13,7 @@
 			"Type": "msi"
 		},
 		{
-			"Name": "Adobe Reader DC",
+			"Name": "Adobe Acrobat Reader DC",
 			"Version": "*",
 			"Type": "programs",
 			"SilentArg": "/sAll /rs"
