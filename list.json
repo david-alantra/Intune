@@ -1,5 +1,5 @@
 {
-	"LastUpdate": "2024-10-18 15:35:50Z",
+	"LastUpdate": "2024-21-10 15:35:50Z",
 	"Application": [
 		{
 			"Name": "7-Zip *",
@@ -13,10 +13,36 @@
 			"Type": "msi"
 		},
 		{
-			"Name": "Adobe Acrobat Reader DC",
+			"Name": "Adobe Reader DC",
 			"Version": "*",
 			"Type": "programs",
 			"SilentArg": "/sAll /rs"
-		}
-	]
+		},
+		{
+			"Name": "FileZilla *",
+			"Version": "*",
+			"Type": "programs",
+			"SilentArg": "/S"
+		},
+        {
+			"Name": "FortiClient *",
+			"Version": "*",
+			"Type": "msi",
+			"SilentArg": "/S"
+	    },
+        {
+			"Name": "FortiClient VPN",
+			"Version": "*",
+			"Type": "msi",
+			"SilentArg": "/S"
+		},
+        {
+            "Name": "FortiClient SSLVPN v4.0.2300",
+			"Version": "*",
+			"Type": "msi",
+			"SilentArg": "/S"
+    
+        }
+        ]   
+
 }
