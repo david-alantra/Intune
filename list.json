@@ -13,12 +13,6 @@
 			"Type": "msi"
 		},
 		{
-			"Name": "Adobe Reader DC",
-			"Version": "*",
-			"Type": "programs",
-			"SilentArg": "/sAll /rs"
-		},
-		{
 			"Name": "FileZilla *",
 			"Version": "*",
 			"Type": "programs",
