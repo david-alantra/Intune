@@ -1,34 +1,16 @@
 {
-	"LastUpdate": "2024-12-31 15:35:50Z",
-	"Application": [{
-		"Name": "7-Zip *",
-		"Version": "*",
-		"Type": "programs",
-		"SilentArg": "/S"
-	},{
-		"Name": "7-Zip ??.??",
-		"Version": "*",
-		"Type": "msi"
-	},{
-		"Name": "FileZilla *",
-		"Version": "*",
-		"Type": "programs",
-		"SilentArg": "/S"
-	},{
-		"Name": "FortiClient *",
-		"Version": "*",
-		"Type": "msi"
-		"SilentArg": "/S"
-	},{
-		"Name": "FortiClient VPN",
-		"Version": "*",
-		"Type": "msi"
-		"SilentArg": "/S"
-	},{
-		"Name": "FortiClient VPN",
-		"Version": "*",
-		"Type": "msi"
-		"SilentArg": "/S"
-	}
-]
+	"LastUpdate": "2023-09-27 15:35:50Z",
+	"Application": [
+		{
+			"Name": "7-Zip *",
+			"Version": "*",
+			"Type": "programs",
+			"SilentArg": "/S"
+		},
+		{
+			"Name": "7-Zip ??.??",
+			"Version": "*",
+			"Type": "msi"
+		}
+	]
 }
