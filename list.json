@@ -24,6 +24,11 @@
 		"Version": "*",
 		"Type": "msi"
 		"SilentArg": "/S"
+	},{
+		"Name": "FortiClient VPN",
+		"Version": "*",
+		"Type": "msi"
+		"SilentArg": "/S"
 	}
 ]
 }
