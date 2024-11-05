@@ -1,5 +1,5 @@
 {
-	
+	"LastUpdate": "2023-09-27 15:35:50Z",
 	"Application": [{
 		"Name": "7-Zip *",
 		"Version": "*",
@@ -18,16 +18,7 @@
 		"Name": "FortiClient *",
 		"Version": "*",
 		"Type": "msi"
-		"SilentArg": "/S"
-	},{
-		"Name": "FortiClient VPN",
-		"Version": "*",
-		"Type": "msi"
-		"SilentArg": "/S"
-	},{
-		"Name": "FortiClient VPN",
-		"Version": "*",
-		"Type": "msi"
-		"SilentArg": "/S"
+
 	}
 ]
+}
